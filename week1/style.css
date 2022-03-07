@@ -28,15 +28,12 @@
     }
 
 .side-profile {
-float: left;
-width: 26%; 
-color: white;
-background-color:#1f1f20;
-height: 580px;
-text-align: ;
-padding: 20px;
-
-}
+    float: left;
+    width: 26%;
+    background-color:#1f1f20;
+    height: 580px;
+    padding: 20px;
+    }
 #h1 {
     position: absolute;
     text-align: center;
