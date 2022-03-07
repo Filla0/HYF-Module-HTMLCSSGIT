@@ -29,11 +29,12 @@
 
 .side-profile {
 float: left;
-width: 30%; 
+width: 26%; 
 color: white;
 background-color:#1f1f20;
-height:620px;
+height: 580px;
 text-align: ;
+padding: 20px;
 
 }
 #h1 {
