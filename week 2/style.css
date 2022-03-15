@@ -660,5 +660,8 @@ ul{
     .backg img{
         display: flex;
     }
+    .login-icon {
+        display: flex;
+    }
 
 }
