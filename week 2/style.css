@@ -75,6 +75,18 @@ nav li:hover:not(.logo1,.register) {
     background-color: #ada9a9;
 }
 
+.login-icon {
+    display: none;
+    color: #FFFFFF;
+    margin: auto;
+    padding: 6px;
+}
+
+.login-icon:hover {
+    background-color: #333333;
+    border-radius: 50px;
+}
+
 .toggle-button {
     position: absolute;
     top: 1.3em;
