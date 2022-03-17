@@ -248,7 +248,7 @@ nav li:hover:not(.logo1,.register) {
 
 .container1 {
     max-width: 1170px;
-    
+    margin-top: 35px;
 }
 .row {
     display: flex;
@@ -350,6 +350,7 @@ ul{
 .cn {
     display: flex;
     justify-content: space-between;
+    margin-top: 50px;
 }
 
 .inside-cn {
@@ -370,11 +371,15 @@ ul{
 
 .cn1-0 {
     margin: auto;
-    
+}
+
+.cn1-0 p{
+    margin-bottom: 25px;
 }
 
 .cn1-0 h3 {
     font-size: 30px;
+    margin-bottom: 25px;
 }
 
 .button2 {
